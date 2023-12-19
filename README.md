@@ -1,9 +1,9 @@
 # Description
-Adaptation of the [DataCamp](https://www.datacamp.com) [Analyzing Students' Mental Health in SQL](https://app.datacamp.com/learn/projects/analyzing_students_mental_health) project using [DuckDB](https://duckdb.org/). 
+Adaptation of the [DataCamp](https://www.datacamp.com) [Analyzing Motorcycle Part Sales](https://app.datacamp.com/learn/projects/1574) project using [DuckDB](https://duckdb.org/). 
 
 In the related Jupyter Notebook the original project description is provided along with setting up the DuckDB environment and tables. 
 
 ## Project Description
-Studying abroad can be both exciting and difficult. But what might be contributing to this? One university decided to find out!
+Motorcycles—cool! SQL skills—definitely cool! This project allows you to combine both—very cool!
 
-Use your PostgreSQL skills to explore the students database from an international university and find out what factors may impact students' mental health.
+Working on behalf of a company that sells motorcycle parts, you'll dig into their data to help them understand their revenue streams. You'll build up a query to find out how much net revenue they are generating across their product lines, segregating by date and warehouse.
